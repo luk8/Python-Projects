@@ -1,8 +1,3 @@
-# By: Luksonne Zetrenne
-# Date: 3/16/2019
-# Version: 1.0
-# Assignment: A6
-
 # The roster of the Arkon Zips 2018-2019 Men's Basketball Team
 # The program will separate the roster, append a player, sort the roster, remove a player, display the longest and shortest names on the roster
 
