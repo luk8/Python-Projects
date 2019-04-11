@@ -52,7 +52,7 @@ def getCountry(countryData):
 
 # Prints list of countries and per capita for each country
 def printRecords(countryData):
- 
+ 
     for country in sorted(countryData):
         print("%-15s" % country, end ="")
 
